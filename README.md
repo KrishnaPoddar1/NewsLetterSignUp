@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- GitHub Repo URL: [Git Hub Link](https://github.com/KrishnaPoddar1/NewsLetterSignUp.git)
+- Live Site URL: [Live site URL ](https://krishnapoddar1.github.io/NewsLetterSignUp/)
 
 ## My process
 
